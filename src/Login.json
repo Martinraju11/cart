@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "username": "martin",
+      "password": 54321
+    },
+    {
+      "username": "rajaguru",
+      "password": 12345
+    },
+    {
+      "username": "murugan",
+      "password": 321
+    },
+    {
+      "username": "anand",
+      "password": 123
+    },
+    {
+      "username": "praveen",
+      "password": 111
+    }
+  ],
+
+  "veg": [
+    {
+      "name": "Onion",
+      "source": "https://www.sidechef.com/ingredient/9e254eec-3005-4733-a87e-2c60fd812b49.jpg",
+      "price": 100,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 1
+    },
+    {
+      "name": "Carrot",
+      "source": "https://c.ndtvimg.com/2021-05/j6ab24bg_carrots_625x300_04_May_21.jpg",
+      "price": 50,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 2
+    },
+    {
+      "name": "Onion",
+      "source": "http://change2naturalfoods.com/images/media/2020/08/J8NOS21903.jpeg",
+      "price": 110,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 3
+    },
+    {
+      "name": "Cabbage",
+      "source": "https://www.freshpoint.com/wp-content/uploads/2020/02/Freshpoint-green-cabbage.jpg",
+      "price": 70,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 4
+    },
+    {
+      "name": "Tomato",
+      "source": "https://sciencebob.com/wp-content/uploads/2015/04/tomato_small.png",
+      "price": 120,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 5
+    },
+    {
+      "name": "Potato",
+      "source": "https://www.netafimindia.com/48d5e8/globalassets/demo/potato/potatoes_challenge.jpg?height=0&width=1500&mode=crop&quality=80",
+      "price": 50,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 6
+    },
+    {
+      "name": "Lady finger",
+      "source": "https://5.imimg.com/data5/PU/LG/MY-52406801/lady-finger-500x500.jpg",
+      "price": 80,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 7
+    },
+    {
+      "name": "Chilly",
+      "source": "https://5.imimg.com/data5/MP/BJ/MY-43969551/green-chilly-500x500.png",
+      "price": 90,
+      "isFav": false,
+      "toCart": false,
+      "count": 1,
+      "id": 8
+    }
+  ]
+}

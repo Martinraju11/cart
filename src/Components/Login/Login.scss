@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.log-row {
+  text-align: center;
+}
+.inputs {
+  display: flex;
+  gap: 20px;
+}
+input,
+label {
+  margin: 15px 0;
+  width: 100%;
+  color: rgb(19, 6, 139);
+}
+.log-btn button {
+  width: 50%;
+  margin: auto;
+  padding: 10px 15px;
+  margin: 20px;
+  background-color: rgb(160, 202, 250);
+}
+.log-row h2 {
+  color: rgb(68, 105, 185);
+  padding-bottom: 20px;
+}
+.log-row {
+  border: 1px solid rgb(68, 105, 185);
+  padding: 10px;
+  padding-right: 30px;
+}
+.log-para {
+  color: rgb(235, 57, 57);
+}
